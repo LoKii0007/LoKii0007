@@ -4,4 +4,4 @@
   https://pixelflow-ui.vercel.app
 
 - **Prompt Board** – A Pinterest-style platform for discovering, saving, and organizing creative prompts.  
-  https://prompt-board-seven.vercel.app
+  https://promptboard-seven.vercel.app
